@@ -53,6 +53,8 @@ menu:
     url:               /project/
   - title:             Algorithm
     url:               /algorithm/
+  - title:             Etc
+    url:               /etc/
   - title:             About
     url:               /about/
 
@@ -203,7 +205,7 @@ hydejack:
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this works in the PRO version of Hydejack.
-  advertise:           true
+  advertise:           false
 
   # Dark Mode for Hydejack
   # Note that this works in the PRO version of Hydejack.
