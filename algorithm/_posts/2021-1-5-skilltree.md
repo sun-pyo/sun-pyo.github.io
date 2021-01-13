@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programmers 49993 스킬트리
-noindex: true
+noindex: false
 ---
 
 ![로고 이미지](https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/design/logo.jpg)

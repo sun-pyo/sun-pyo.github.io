@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beakjoon 1138 한 줄로 서기
-noindex: true
+noindex: false
 ---
 
 ![Baekjoon Online Judge](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og-1200.png)
