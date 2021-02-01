@@ -3,7 +3,6 @@
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
 
-[![HitCount](http://hits.dwyl.com/sun-pyo/sun-pyo.githubio.svg)](http://hits.dwyl.com/sun-pyo/sun-pyo.githubio)
 ## Quick Start
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
