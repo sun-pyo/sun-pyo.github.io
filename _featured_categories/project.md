@@ -1,6 +1,6 @@
 ---
 # Featured tags need to have the `list` layout.
-layout: list
+layout: post
 
 # The title of the tag's page.
 title: Project
@@ -12,3 +12,5 @@ slug: project
 description: >
   프로젝트
 ---
+
+[Virtual Try on](/VirtualTryOn/)    

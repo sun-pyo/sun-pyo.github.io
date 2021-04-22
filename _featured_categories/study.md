@@ -1,16 +1,14 @@
 ---
 # Featured tags need to have the `list` layout.
-layout: post
+layout: list
 
 # The title of the tag's page.
-title: Etc
+title: Study
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: etc
+slug: study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  기타 공부 목록
+  Study
 ---
-
-[Git](/git/)
