@@ -13,4 +13,4 @@ description: >
   프로젝트
 ---
 
-[Virtual Try on](/VirtualTryOn/)    
+[Virtual Try on](/virtualtryon/)    
